@@ -1,8 +1,11 @@
  - Hi, I’m @Detele-Detele.
  - I’m interested in Python.
- - I’m currently learning Python.
- - I’m looking to collaborate on Python.
- - 
+ - I’m learning Python.
+ - I intend to be a great person someday.
+ - 我是Detele-Detele。
+ - 我对Python非常感兴趣。
+ - 我正在学习Python。
+ - 总有一天会成为厉害的人。
 
 <!---
 Detele-Detele/Detele-Detele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
